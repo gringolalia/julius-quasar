@@ -1,0 +1,10 @@
+{
+	"name": "Orange Julius Quasar",
+	"version": "1.0.0",
+	"description": "Push me to Heroku",
+	"author": "COlin Brayton",
+	"private": false,
+	"scripts": {
+	  "postinstall": "npm install express"
+	}
+   }
